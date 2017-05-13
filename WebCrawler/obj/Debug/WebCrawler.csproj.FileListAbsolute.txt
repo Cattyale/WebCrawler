@@ -16,3 +16,12 @@ D:\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cac
 D:\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
 D:\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
 D:\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.Cache
+E:\Coding\Github\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+E:\Coding\Github\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+E:\Coding\Github\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+E:\Coding\Github\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.Cache

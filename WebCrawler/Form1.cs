@@ -168,9 +168,7 @@ namespace WebCrawler
         /// <param name="value"></param>
         public void text(string value)
         {
-            //change();
             string path = Application.StartupPath + "\\download\\TextMessage.txt";
-            //string path = Application.StartupPath + "\\" + DateTime.Now.ToString("yyyy-MM-dd") + "\\TextMessage.txt";
             FileStream f = new FileStream(path, FileMode.Append, FileAccess.Write, FileShare.ReadWrite);
             StreamWriter sw = new StreamWriter(f);
             sw.WriteLine(value);

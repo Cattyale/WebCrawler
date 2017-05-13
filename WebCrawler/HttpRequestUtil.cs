@@ -14,6 +14,7 @@ namespace WebCrawler
     /// </summary>
     public class HttpRequestUtil
     {
+        static private int filename = 0;
         /// <summary>
         /// 获取页面html
         /// </summary>
@@ -44,7 +45,8 @@ namespace WebCrawler
             {
                 Directory.CreateDirectory(path);
             }
-            string filePathName = path + "\\" + fileName;
+            filename = filename + 1;
+            string filePathName = path + "\\" + filename + ".jpg";
             if (File.Exists(filePathName)) return;
 
             // 设置参数
